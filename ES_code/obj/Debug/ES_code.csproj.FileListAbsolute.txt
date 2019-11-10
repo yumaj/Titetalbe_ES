@@ -1,0 +1,40 @@
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\bin\Debug\ES_code.exe.config
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\bin\Debug\ES_code.exe
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\bin\Debug\ES_code.pdb
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.csprojResolveAssemblyReference.cache
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.csproj.ResolveComReference.cache
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.Form1.resources
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.Properties.Resources.resources
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.csproj.GenerateResource.Cache
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.exe
+C:\Users\yumaj\Documents\Visual Studio 2017\Projects\ES_code\ES_code\obj\Debug\ES_code.pdb
+C:\Users\yuma\Desktop\ES_code\ES_code\bin\Debug\ES_code.exe.config
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.csproj.ResolveComReference.cache
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.exe
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.pdb
+C:\Users\yuma\Desktop\ES_code\ES_code\bin\Debug\ES_code.exe
+C:\Users\yuma\Desktop\ES_code\ES_code\bin\Debug\ES_code.pdb
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.csprojResolveAssemblyReference.cache
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.Form1.resources
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.Properties.Resources.resources
+C:\Users\yuma\Desktop\ES_code\ES_code\obj\Debug\ES_code.csproj.GenerateResource.Cache
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.exe.config
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.exe
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.pdb
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csprojAssemblyReference.cache
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csproj.ResolveComReference.cache
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.Form1.resources
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.Properties.Resources.resources
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csproj.GenerateResource.cache
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.exe
+C:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.pdb
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.exe.config
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csproj.ResolveComReference.cache
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.exe
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.pdb
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.exe
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Debug\ES_code.pdb
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csprojResolveAssemblyReference.cache
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.Form1.resources
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.Properties.Resources.resources
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Debug\ES_code.csproj.GenerateResource.Cache

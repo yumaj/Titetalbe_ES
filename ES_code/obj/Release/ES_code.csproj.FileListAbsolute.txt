@@ -1,0 +1,10 @@
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Release\ES_code.exe.config
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.csproj.ResolveComReference.cache
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Release\ES_code.exe
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\bin\Release\ES_code.pdb
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.Form1.resources
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.Properties.Resources.resources
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.csproj.GenerateResource.Cache
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.exe
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.pdb
+E:\Users\yumaj\Desktop\ES_code\ES_code\ES_code\obj\Release\ES_code.csprojResolveAssemblyReference.cache
